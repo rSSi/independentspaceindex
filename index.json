@@ -1,0 +1,354 @@
+{
+ "Tim Nolas":
+ {
+   "Name": "____TIM NOLAS",
+   "clearName": "Tim Nolas",
+   "District": 8,
+   "Address": "Skodagasse 26",
+   "Website": "timnolas.com"
+ },
+ "LLLLLL":
+ {
+   "Name": "□□□□□■",
+   "clearName": "LLLLLL",
+   "District": 3,
+   "Address": "Seidlgasse 14",
+   "Website": "LLLLLL.at"
+ },
+ "ada":
+ {
+   "Name": "ada",
+   "District": 16,
+   "Address": "Wattgasse 16/6",
+   "Website": "artisticdynamicassociation.eu"
+ },
+ "Autocorrect":
+ {
+   "Name": "Autocorrect",
+   "District": false,
+   "Address": "",
+   "Website": "autocorrect.at"
+ },
+ "Bar Du Bois":
+ {
+   "Name": "Bar Du Bois",
+   "District": 5,
+   "Address": "Diehlgasse 50",
+   "Website": "bardubois.at"
+ },
+ "Bildetage":
+ {
+   "Name": "Bildetage",
+   "District": 3,
+   "Address": "Barichgasse",
+   "Website": "bildetage.com"
+ },
+ "Büro Weltausstellung":
+ {
+   "Name": "Büro Weltausstellung",
+   "District": 2,
+   "Address": "Praterstraße 42 / 1 / Mezzanin",
+   "Website": "artfoundation.at"
+ },
+ "Camera Matteotti":
+ {
+   "Name": "Camera Matteotti",
+   "District": 5,
+   "Address": "Fendigasse 37 / 16 / 1",
+   "Website": "cameramatteotti.com"
+ },
+ "D.E.L.F.":
+ {
+   "Name": "D.E.L.F.",
+   "District": 12,
+   "Address": "Ratschkygasse 36",
+   "Website": "delf.at"
+ },
+ "Diana Lambert":
+ {
+   "Name": "Diana Lambert",
+   "District": 5,
+   "Address": "Fendigasse 23/19",
+   "Website": "dianalambert.org"
+ },
+ "die Schöne":
+ {
+   "Name": "die Schöne",
+   "District": 16,
+   "Address": "Kuffnergasse 7",
+   "Website": "dieschoene.at"
+ },
+ "fAN":
+ {
+   "Name": "fAN",
+   "District": 2,
+   "Address": "Glockengasse 9",
+   "Website": "fineartnetwork.net"
+ },
+ "flat1":
+ {
+   "Name": "flat1",
+   "District": 6,
+   "Address": "U-Bahnbogen 6-7",
+   "Website": "flat1.at"
+ },
+ "Foundation":
+ {
+   "Name": "Foundation",
+   "District": 3,
+   "Address": "Hainburgerstraße 47/1",
+   "Website": "foundationvienna.com"
+ },
+ "format .strk":
+ {
+   "Name": "format .strk",
+   "District": "currently no address",
+   "Address": "currently no address",
+   "Website": "strategischekapitulation.org"
+ },
+ "FOX":
+ {
+   "Name": "FOX",
+   "District": 3,
+   "Address": "Marxergasse 16",
+   "Website": "foxwien3.blogspot.co.at"
+ },
+ "Futur II":
+ {
+   "Name": "Futur II",
+   "District": 16,
+   "Address": "Haberlgasse 42",
+   "Website": "futur2.at"
+ },
+ "Gärtnergasse":
+ {
+   "Name": "Gärtnergasse",
+   "District": 16,
+   "Address": "Ottakringer Straße 44",
+   "Website": "gaertnergasse.com"
+ },
+ "GOMO":
+ {
+   "Name": "GOMO",
+   "District": 4,
+   "Address": "Argentinierstraße 67",
+   "Website": "gomoartspace.com"
+ },
+ "Guimarães":
+ {
+   "Name": "Guimarães",
+   "District": 6,
+   "Address": "Linke Wienzeile 36 / 1c",
+   "Website": "guimaraes.info"
+ },
+ "hoast":
+ {
+   "Name": "hoast",
+   "District": 2,
+   "Address": "Große Sperlgasse 25",
+   "Website": "hoast.net"
+ },
+ "Kaeshmaesh":
+ {
+   "Name": "Kaeshmaesh",
+   "District": 2,
+   "Address": "Ennsgasse 20",
+   "Website": "kaeshmaesh.tumblr.com"
+ },
+ "Kevin Space":
+ {
+   "Name": "Kevin Space",
+   "District": 2,
+   "Address": "Volkertstraße 17",
+   "Website": "kevinspace.org"
+ },
+ "KLUCKYLAND":
+ {
+   "Name": "KLUCKYLAND",
+   "District": 20,
+   "Address": "Othmargasse 34",
+   "Website": "kluckyland.com"
+ },
+ "Kulturdrogerie":
+ {
+   "Name": "Kulturdrogerie",
+   "District": 18,
+   "Address": "Gentzgasse 86-88",
+   "Website": "kulturdrogerie.org"
+ },
+ "Kunsttankstelle Ottakring":
+ {
+   "Name": "Kunsttankstelle Ottakring",
+   "District": 16,
+   "Address": "Grundsteingasse 45-47",
+   "Website": "kunsttankstelleottakring.at"
+ },
+ "Kunstverein Extra":
+ {
+   "Name": "Kunstverein Extra",
+   "District": 6,
+   "Address": "Eisvogelgasse 5",
+   "Website": "kunstverein-extra.com"
+ },
+ "Mandelkern Project":
+ {
+   "Name": "Mandelkern Project",
+   "District": false,
+   "Address": "",
+   "Website": "patrickmwschabus.wixsite.com/mandelkernproject"
+ },
+ "Mauve":
+ {
+   "Name": "Mauve",
+   "District": 3,
+   "Address": "Löwengasse 18",
+   "Website": "mauve-vienna.com"
+ },
+ "Mz Baltazar's Lab":
+ {
+   "Name": "Mz Baltazar's Lab",
+   "District": 20,
+   "Address": "Wallensteinstraße 38-40/8",
+   "Website": "mzbaltazarslaboratory.org"
+ },
+ "New Jörg":
+ {
+   "Name": "New Jörg",
+   "District": 20,
+   "Address": "Jägerstraße 56",
+   "Website": "newjoerg.at"
+ },
+ "One Mess Gallery":
+ {
+   "Name": "One Mess Gallery",
+   "District": 1,
+   "Address": "Löwelstraße 6",
+   "Website": "onemessgallery.com"
+ },
+ "Pferd":
+ {
+   "Name": "Pferd",
+   "District": 11,
+   "Address": "Medwedweg 3",
+   "Website": "bildsteinglatz.com/pferd"
+ },
+ "Pina":
+ {
+   "Name": "Pina",
+   "District": 4,
+   "Address": "Große Neugasse 44",
+   "Website": "pinavienna.eu"
+ },
+ "Schneiderei":
+ {
+   "Name": "Schneiderei",
+   "District": false,
+   "Address": "nomadic",
+   "Website": "seeyounextthursday.com"
+ },
+ "school":
+ {
+   "Name": "school",
+   "District": 5,
+   "Address": "Grüngasse 22",
+   "Website": "info.weloveschool.org"
+ },
+ "Significant Other":
+ {
+   "Name": "Significant Other",
+   "District": 7,
+   "Address": "Burggasse 24",
+   "Website": "significantother.art"
+ },
+ "Size Matters":
+ {
+   "Name": "Size Matters",
+   "District": 5,
+   "Address": "Margaretenstraße 110",
+   "Website": "sizematters.club"
+ },
+ "SORT":
+ {
+   "Name": "SORT",
+   "District": 1,
+   "Address": "Bäckerstraße 7/8",
+   "Website": "sortvienna.com"
+ },
+ "SUPER":
+ {
+   "Name": "SUPER",
+   "District": 5,
+   "Address": "Schönbrunner Straße 10",
+   "Website": "supersuper.at"
+ },
+ "Tower":
+ {
+   "Name": "Tower",
+   "District": 22,
+   "Address": "Kratochwjlestraße 12",
+   "Website": "facebook.com/ViennaTower"
+ },
+ "THE CLUB CLUB":
+ {
+   "Name": "THE CLUB CLUB",
+   "District": 15,
+   "Address": "Löschenkohlgasse 12",
+   "Website": "clubclub.wien"
+ },
+ "Ve.Sch":
+ {
+   "Name": "Ve.Sch",
+   "District": 20,
+   "Address": "Wehlistraße 27b",
+   "Website": "vesch.org"
+ },
+ "Galerie Kunstbuero":
+ {
+   "Name": "Galerie Kunstbuero",
+   "District": 6,
+   "Address": "Schadekgasse 6-8",
+   "Website": "artfoundation.at"
+ },
+ "WE DEY X SPACE":
+ {
+   "Name": "WE DEY X SPACE",
+   "District": 7,
+   "Address": "Kandlgasse 24",
+   "Website": "we-dey.in"
+ },
+ "wellwellwell":
+ {
+   "Name": "wellwellwell",
+   "District": 4,
+   "Address": "Mittersteig 2a",
+   "Website": "wellwellwell.at"
+ },
+ "White Dwarf Projects":
+ {
+   "Name": "White Dwarf Projects",
+   "District": 3,
+   "Address": "Seidlgasse 14",
+   "Website": "facebook.com/whitedwarfprojects"
+ },
+ "Zentrale":
+ {
+   "Name": "Zentrale",
+   "District": 16,
+   "Address": "Neulerchenfelder Straße 52",
+   "Website": "zentrale.jetzt"
+ },
+ "VBKÖ":
+ {
+   "Name": "VBKÖ",
+   "District": 1,
+   "Address": "Maysedergasse 2",
+   "Website": "vbkoe.org"
+ },
+ "HHDM":
+ {
+   "Name": "HHDM",
+   "District": 6,
+   "Address": "Damböckgasse 8",
+   "Website": "hhdm.eu"
+ }
+}

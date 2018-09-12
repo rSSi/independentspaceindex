@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: http://independentspaceindex.at/googlee6176323e80f1c92.html
+Disallow: http://independentspaceindex.at/dot.svg
+Disallow: http://independentspaceindex.at/vsbqofyl.png

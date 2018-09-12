@@ -1,0 +1,7 @@
+<?php 
+
+$about_en = "<p><b>EN</b>: The <i>Independent Space Index</i> is a comprehensive index of local artist-run and independent art spaces (also called \"Off-Spaces\" or Alternative Spaces) in Vienna, Austria, currently comprising of <span class=\"entryCount\"></span> entries. Furthermore, the index functions as a representation of the local association of independent art spaces under the same name, formed in late 2017 as a response to recent right-wing politics and public cultural funding cuts in Austria.</p>";
+$about_de = "<p><b>DE</b>: Der <i>Independent Space Index</i> ist ein ausführliches Verzeichnis lokaler \"Artist-Run\"- und unabhängiger Kunsträume (auch \"Off-Spaces\" oder \"Alternative Spaces\" genannt) in Wien, welches momentan <span class=\"entryCount\"></span> Einträge verzeichnet. Darüber hinaus dient das Verzeichnis als Repräsentation der Wiener Vereinigung unabhängiger Kunsträume unter demselben Namen, welche sich Ende 2017 als Reaktion auf rechte Politik und Kürzungen öffentlicher Kulturförderungen in Österreich formiert hat.</p>";
+$about_more ="<p>Concept, design and development by <a href=\"https://www.moev.biz/\">moev.biz</a>. The site is still in development. If you can in any way assist (there is help needed with structuring the code, PHP, Google Maps API, JavaScript, building a backend and lots more) or want to otherwise contrtibute to the initiative, please get in contact. <b>Any input is highly appreciated!</b> Thank you for your support.</p>";
+
+?>

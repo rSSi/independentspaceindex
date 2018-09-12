@@ -1,0 +1,342 @@
+body {
+    padding:0;
+    margin: 0;
+}
+
+#container {
+    padding: 10px;
+}
+
+* {
+    color: rgba(230,0,0,1)!important;
+    border-color: rgba(230,0,0,1);
+    font-family: "Times New Roman", serif!important;
+}
+
+p, tr, td, a {-webkit-transform: translate3d(0px, 0px, 0px);}
+
+/*###########################################################     MENU      ##########################################*/
+
+.menu {
+    border-bottom: 1px solid;
+    padding: 44px 0px 54px 0px;
+    background-color: #fff;
+    z-index: 100;
+}
+
+.menu h1::after, .menu h1::after {
+    text-align: right;
+    float: right;
+    font-size: 1.2em;
+    margin-top: 0px;
+    padding-right: 10px;
+}
+
+.menu span {
+    cursor: pointer;
+}
+
+.menu .active span{
+    display: none;
+}
+
+.menu .active:after {
+    content:"Close";
+}
+
+.menu h1 {
+    font-size: 1em;
+}
+
+.menu td {
+    border-style: none;
+    word-break: keep-all;
+}
+
+/*###########################################################     PANELS    #################################################*/
+
+#aboutPanel td{
+}
+
+#optionsPanel td {
+}
+
+#optionsPanel input {
+    border: none;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    opacity: 1;
+    width: 100%;
+}
+
+#aboutPanel, #optionsPanel, #calendarPanel {
+    display: block;
+    width: 100%;
+    position: relative;
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.2s ease-out;
+       -moz-transition: max-height 0.2s ease-out;
+         -o transition: max-height 0.2s ease-out;
+            transition: max-height 0.2s ease-out;
+    margin-top: 0;
+    background-color: #fff;
+}
+
+#aboutPanel:not(#moreinfo) td, #optionsPanel td, #calendarPanel td {
+    padding: 40px 12px 40px 12px;
+    border-bottom: 1px solid;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    vertical-align: top;
+}
+
+#moreinfo {
+
+}
+
+#maintable p {
+    padding: 0 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a, a:active, a:link, a:visited, a:hover, a:focus{
+    color: rgba(230,0,0,1);
+    text-decoration: none;
+}
+
+form {
+    font-family: "Times New Roman", serif!important;
+}
+
+.nlsignup input:first-of-type {
+    
+}
+
+.nlsignup input:last-of-type {
+    border: none;
+    font-family: "Times New Roman", serif;
+    font-size: 1rem;
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+input#mail:disabled {
+    color: rgb(230,0,0)!important;
+}
+
+input#mail {
+    font-family: "Times New Roman", serif;
+    font-size: 1rem;
+    border: none;
+    border-bottom: 1px solid red;
+    border-radius: 0;
+}
+
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+td {
+    border: 1px solid;
+}
+
+td span.clearName {
+    font-size:0;
+}
+
+#maintable th, #maintable td {
+    word-break: break-all;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th {
+    border: none;
+    padding: 24px 12px 24px;
+    cursor: pointer;
+}
+
+tbody tr {
+    height: 50px;
+}
+
+/*################################################################################# MAIN TABLE  #############################*/
+
+#maintable {
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+         -o-animation: fadein 1s; /* Opera < 12.1 */
+            animation: fadein 1s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+}
+
+#maintable {
+    margin-top: 20px;
+}
+
+#maintable tr td {
+    background: rgba(230,0,0,0);
+    transition: 0.3s;
+}
+
+#maintable tr:hover td {
+    background: rgba(230,0,0,0.05);
+}
+
+#maintable td:nth-child(2):empty:after, #maintable td:nth-child(3):empty:after
+{
+    content: "unknown/no location";
+    font-style: italic;
+}
+
+#toggleInactive {
+    cursor: pointer;
+}
+
+#toggleInactive:before {
+    content:"Display ";
+}
+
+#toggleInactive.active:before {
+    content:"Hide ";
+}
+
+.inactive {
+    display: none;
+}
+
+.inactive td:first-child:after {
+    content:"inactive*";
+    font-style: italic;
+    float: right;
+}
+
+table th:nth-child(4) {
+    cursor: auto;
+}
+
+*:focus {
+    outline: none;
+}
+
+/*########TABLESORTER#######*/
+
+thead th {
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-origin: content-box;
+}
+thead th.down {
+    background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAAOYAAP///yH5BAEAAAEALAAAAAAVAAQAAAINjI+AywnaYnhUMopbAQA7);
+}
+thead th.up {
+    background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAAOYAAP///yH5BAEAAAEALAAAAAAVAAQAAAINjB+gC+jP2ptn0WskLQA7);
+
+}
+
+/*############################################################FOOTER#######*/
+
+.footer{
+    padding-bottom: 0;
+    margin-top: 10px;
+}
+
+
+/*############################################################MAP STYLES#######*/
+
+#map { position:absolute; top:172px; bottom:0; width:100%; z-index:-100; padding:0; margin: 0;}
+
+
+
+/*############################################################MOBILE STYLES#######*/
+
+@media only screen and (max-width: 480px) {
+
+    #optionsPanel td {
+        width: 100%!important;
+        display: block!important;
+        box-sizing:border-box!important;
+        clear:both!important;
+        padding: 15px 10px;
+    }
+
+    #maintable td:nth-child(2), #maintable td:nth-child(4), #maintable th:nth-child(2), #maintable th:nth-child(4) {
+        display: none;
+    }
+
+    .menu td:first-child {
+        width: 100%!important;
+        white-space:nowrap;
+        display: block;
+        box-sizing:border-box; clear:both;
+        }
+
+    .menu td:not(:first-child) {
+        width:25%;
+        display: inline-block;
+    }
+
+    .menu {
+        padding: 0;
+        padding-bottom: 10px;
+        margin: 0;
+    }
+
+    #aboutPanel td {display:block; box-sizing:border-box; clear:both}
+
+    #map { position:absolute; top:125px; }
+
+    .footer td {
+        width: 100%!important;
+        display: block;
+        box-sizing:border-box;
+        clear:both;
+    }
+
+    .footer td {
+        text-align: left!important;
+    }
+
+}
